@@ -13,9 +13,9 @@
 // Data Konfigurasi MySQL yang disesuaikan
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'data_awal';
+$db['default']['username'] = 'sukarame_kelurahan06082020';
+$db['default']['password'] = 'sukarame_kelurahan06082020';
+$db['default']['database'] = 'sukarame_kelurahan06082020';
 
 /*
 | Untuk setting koneksi database 'Strict Mode'
