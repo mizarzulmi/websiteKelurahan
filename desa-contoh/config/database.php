@@ -12,10 +12,10 @@
 
 // Data Konfigurasi MySQL yang disesuaikan
 
-$db['default']['hostname'] = 'sukarame_kelurahan06082020 ';
-$db['default']['username'] = 'sukarame_kelurahan06082020';
-$db['default']['password'] = 'sukarame_kelurahan06082020';
-$db['default']['database'] = 'sukarame_kelurahan06082020';
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'sukarame_admindb';
+$db['default']['password'] = 'Makinjaya!2';
+$db['default']['database'] = 'sukarame_06082020';
 
 /*
 | Untuk setting koneksi database 'Strict Mode'
