@@ -12,7 +12,7 @@
 
 // Data Konfigurasi MySQL yang disesuaikan
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'sukarame_kelurahan06082020 ';
 $db['default']['username'] = 'sukarame_kelurahan06082020';
 $db['default']['password'] = 'sukarame_kelurahan06082020';
 $db['default']['database'] = 'sukarame_kelurahan06082020';
