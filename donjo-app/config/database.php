@@ -81,10 +81,10 @@ if (is_file($konfigurasi_db))
 }
 else
 {
-	$db['default']['hostname'] = 'localhost';
-	$db['default']['username'] = 'root';
-	$db['default']['password'] = '';
-	$db['default']['database'] = 'data_awal';
+	$db['default']['hostname'] = ' sukarame_kelurahan06082020 ';
+	$db['default']['username'] = ' sukarame_kelurahan06082020 ';
+	$db['default']['password'] = ' sukarame_kelurahan06082020 ';
+	$db['default']['database'] = ' sukarame_kelurahan06082020 ';
 	$db['default']['stricton'] = TRUE;
 }
 $db['default']['dbdriver'] = 'mysqli';
